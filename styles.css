@@ -1,0 +1,21 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+
+}
+
+.form-register{
+    width: 200px;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 2px 1px gray
+
+}
